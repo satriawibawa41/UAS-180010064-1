@@ -115,7 +115,7 @@ public class BeritaAdapter extends RecyclerView.Adapter<BeritaAdapter.BeritaView
             bukaInput.putExtra("LINK", link);
             context.startActivity(bukaInput);
 
-            //ini adalah perubahan
+            //ini adalah perubahan2
             return true;
         }
     }
