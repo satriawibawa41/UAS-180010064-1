@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS 180010064 1</string>
+    <string name="id_berita">ID Lirik</string>
+    <string name="judul_berita">Judul Lagu</string>
+    <string name="tgl_terbit">Tanggal Edit</string>
+    <string name="gambar">Ilustrasi Album</string>
+    <string name="caption">Caption Album</string>
+    <string name="penulis">Penyanyi</string>
+    <string name="isi_berita">Lirik</string>
+    <string name="link">Link Sumber</string>
+    <string name="tambah">Tambah Lirik</string>
+    <string name="edit">Edit Lirik</string>
+    <string name="hapus">Hapus Lirik</string>
+    <string name="bagikan">Bagikan Lirik</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_berita">Data Lirik</string>
+    <string name="pilih_tgl">Pilih</string>
+</resources>
